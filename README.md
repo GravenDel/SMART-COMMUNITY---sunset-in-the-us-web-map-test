@@ -18,7 +18,7 @@ Ce projet vise à cartographier de manière simple et esthétique les endroits e
 
 1. Ouvrez le fichier `index.html` dans un navigateur.
 2. Explorez les points interactifs de la carte.
-3. Cliquez sur un lieu pour voir sa description et éventuellement une photo du coucher de soleil.
+3. Cliquez sur un lieu pour voir sa description et éventuellement une photo du coucher de soleil, ou des informations concernant l'heure du coucher de soleil.
 
 ## 🌤️ Objectif
 
